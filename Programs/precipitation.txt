@@ -1,0 +1,12 @@
+January,2.5
+February,3.0
+March,4.2
+April,3.5
+May,5.0
+June,4.5
+July,6.0
+August,5.5
+September,3.8
+October,2.9
+November,2.0
+December,1.5
